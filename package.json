@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "^10.0.0",
-    "@angular-devkit/build-angular": "~0.1000.3",
+    "@angular-devkit/build-angular": "~0.1000.4",
     "@angular/cli": "~8.3.29",
     "@angular/compiler-cli": "~8.2.11",
     "@angular/language-service": "~10.0.4",
